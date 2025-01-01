@@ -1,0 +1,10 @@
+*.env
+*.env.example
+*.env.local
+*.env.staging
+
+__pycache__/
+
+venv/
+
+.DS_Store
